@@ -1,1 +1,3 @@
 # pditabira
+
+exercícios do projeto
